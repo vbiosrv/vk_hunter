@@ -17,7 +17,7 @@
 ```bash
 export GITHUB_TOKEN='your_github_personal_access_token'
 export VORTEX_SERVER='http://server-ip:5000'
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/vortex-hunter/main/install.sh | sudo -E bash
+curl -sL https://raw.githubusercontent.com/Mastachok/VORTEX_HUNTER/main/install.sh | sudo -E bash
 ```
 
 ## 📋 Процесс активации
