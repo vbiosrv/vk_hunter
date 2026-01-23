@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+
+# Активация и конфиги (ВАЖНО!)
+.vortex_activation
+.vortex_config
+
+# Логи
+*.log
+logs/
+
+# Базы данных
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
